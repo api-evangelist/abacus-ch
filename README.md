@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Abacus (Swiss ERP) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://abacus.ch/
+Abacus (Swiss ERP) provides comprehensive business software solutions for Swiss enterprises, covering financial accounting, payroll, human resources, procurement, and production planning. The platform integrates electronic banking, expense management, and analytics, offering cloud‑based ERP tools tailored to the regulatory and multilingual environment of Switzerland.
+
+**Areas:** Company · ERP · Finance · HR · Procurement · Manufacturing
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://abacus.ch/)
+- [Blog](https://www.abacus.ch/blog)
+- [Security](https://www.abacus.ch/security)
+- [Status](https://status.abacus.ch/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/abacus-ch/](https://apis.io/providers/abacus-ch/).
